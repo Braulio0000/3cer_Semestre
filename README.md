@@ -34,4 +34,4 @@ Dar de alta un producto/servicio/agende o cualquier cosa
 Búsqueda dentro del vector y desplegar la información del registro localizado 
 Dar de baja un producto, previa búsqueda y solicitar una confirmación 
 Crear un algoritmo que me despliegue todos los datos registrados en el vector
-Después de cada proceso anterior regresar al menú principal 
+Después de cada proceso anterior regresar al menú principal.
